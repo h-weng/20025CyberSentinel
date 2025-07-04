@@ -40,7 +40,9 @@ def altgen(n, t):
 
 w=4
 ip="35.245.106.190"
+p=1234
 t=1e4
+
 for n in altgen(p, t):
     url=f'http://{ip}/reports.php?id={n}&code=UV12WX/'
     try:
