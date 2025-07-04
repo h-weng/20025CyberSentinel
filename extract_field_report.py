@@ -22,7 +22,7 @@ import requests
 import time
 import re
 
-def altgen(n, t):
+def altgen(n, t=4999):
     """
     generator for aternating numbers: [1234, 1233, 1235, 1232, 1236 ...]
     
