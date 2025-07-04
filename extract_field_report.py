@@ -41,9 +41,9 @@ def altgen(n, t):
 w=4
 ip="35.245.106.190"
 p=1234
-t=1e5 - p - 1
+g=1e5 - p - 1
 
-for n in altgen(p, t):
+for n in altgen(p, g):
     url=f'http://{ip}/reports.php?id={n}&code=UV12WX/'
     try:
         res = requests.get(url, timeout=w)
