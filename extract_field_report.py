@@ -22,7 +22,7 @@ import requests
 import time
 import re
 
-def altgen(n, t=4999):
+def altgen(n, t):
     """
     generator for aternating numbers: [1234, 1233, 1235, 1232, 1236 ...]
     
@@ -40,8 +40,8 @@ def altgen(n, t=4999):
 
 w=4
 ip="35.245.106.190"
-
-for n in altgen(p):
+t=1e4
+for n in altgen(p, t):
     url=f'http://{ip}/reports.php?id={n}&code=UV12WX/'
     try:
         res = requests.get(url, timeout=w)
