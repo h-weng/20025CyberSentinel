@@ -17,7 +17,7 @@ When I reached the hard challenges, I realized they were beyond my current skill
 #### Lessons Learned
 
 - Starting with easy questions helped me learn more about CTF challenges and tools.
-- Free hints in the easy category were valuable for understanding problem styles.
+- Free hints in the easy category were valuable for understanding challenges.
 - Hints on medium challenges weren’t useful without cyber security expertise.
 - Document as you go.  Clear, or any notes make for easy write ups.
 
