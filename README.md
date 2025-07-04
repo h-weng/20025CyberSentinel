@@ -2,17 +2,17 @@
 
 On June 14 at 11 a.m., the 2025 [DoD Cyber Sentinel Challenge](https://www.correlation-one.com/dod-cyber-sentinel) officially began. As a first-time [Capture The Flag (CTF)](https://ctf101.org/) competitor, I adopted a step-by-step strategy: tackle easy problems first, then move on to more challenging ones.
 
-#### Easy Questions
+#### Easy Challenges
 
-I started with the easy problems because their free hints were clear and directly relevant. To analyze network captures, I used tcpdump; for web tasks, I fetched data with curl; and for binary analysis, I extracted text with strings. Solving each easy challenge taught me new techniques, expanded my toolkit, and prepared me for tougher tasks.
+I started with the easy problems because their free hints were clear and directly relevant. To analyze network captures, I used tcpdump; for web tasks, I fetched data with curl; and for binary analysis, I extracted text with strings. Solving each easy challenge taught me new techniques, expanded my tools, and prepared me for medium and hard challenges.
 
-#### Medium Questions
+#### Medium Challenges
 
-After completing the easy set, I moved on to medium-level challenges. I used two hints (25 points each), but they assumed a deeper cybersecurity background than I had, so they weren’t helpful. Instead, I relied on critical thinking and the same tools—packet analysis, HTTP requests, and manual inspection—to solve all medium problems.
+After completing the easy challenges, I moved on to medium-level challenges. I used two hints (25 points each), but they assumed a deeper cybersecurity background than I had, so they weren’t helpful. Instead, I relied on critical thinking and the same tools—packet analysis, HTTP requests, and manual inspection—to solve all medium problems.
 
-#### Hard Questions
+#### Hard Challenges
 
-When I reached the hard problems, I realized they required advanced methods beyond my current skill set. Rather than guess, I didn't go any further.
+When I reached the hard challenges, I realized they were beyond my current skill set. Rather than guess, I didn't go any further.
 
 #### Lessons Learned
 
