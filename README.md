@@ -1,6 +1,6 @@
 # 2025 DoD Cyber Sentinel Challenge Writeup
 
-On June 14 at 11 a.m., the 2025 [DoD Cyber Sentinel Challenge](https://www.correlation-one.com/dod-cyber-sentinel) officially began. As a first-time [Capture The Flag (CTF)](https://ctf101.org/) competitor, I adopted a step-by-step strategy: tackle easy problems first, then progress to more challenging ones.
+On June 14 at 11 a.m., the 2025 [DoD Cyber Sentinel Challenge](https://www.correlation-one.com/dod-cyber-sentinel) officially began. As a first-time [Capture The Flag (CTF)](https://ctf101.org/) competitor, I adopted a step-by-step strategy: tackle easy problems first, then move on to more challenging ones.
 
 #### Easy Questions
 
