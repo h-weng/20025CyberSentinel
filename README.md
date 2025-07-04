@@ -28,7 +28,7 @@ Moving forward, I will continue refining my skill set in cyber security and a bu
 Satus|Title|Category|Points|Notes|
 |-----|-----|--------|----------|------------|
 |<ul><li>- [x] </li></ul>|Secret.txt Society|Web Security|75|PCAP Analysis|
-|<ul><li>- [x] </li></ul>|[Field Report Mayhem](https://github.com/h-weng/20025CyberSentinel/blob/main/extract_field_report.py))|Web Security|150|HTTP|
+|<ul><li>- [x] </li></ul>|[Field Report Mayhem](https://github.com/h-weng/20025CyberSentinel/blob/main/extract_field_report.py)|Web Security|150|HTTP|
 |<ul><li>- [x] </li></ul>|Behind the Beat|Forensics|75|Metadata|
 |<ul><li>- [x] </li></ul>|Hidden in Plain Sight|Forensics|75|Metadata|
 |<ul><li>- [x] </li></ul>|Cafe Confidential|OSNIT|75|Google Maps|
