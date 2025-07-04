@@ -20,7 +20,7 @@ Upon reaching the hard problems, I encountered obstacles of significantly greate
 - Free guidance is invaluable. The complimentary hints in the easy section accelerated my learning curve and clarified problem structures.
 - Hints have context.  Not-free hints proved ineffective on medium problems without deeper domain expertise; deep understanding cannot be shortcut by points.
 - Know when to pause. Confronting hard challenges too early can lead to frustration; dedicating time to strengthen fundamentals is a better long-term strategy.
-- Document your work for write ups. 
+- Document as you go.  Clear notes make for easy write ups.
 
 Moving forward, I will continue refining my skill set in cyber security and a build a stronger foundation before my next CTF.
 
