@@ -16,11 +16,10 @@ When I reached the hard challenges, I realized they were beyond my current skill
 
 #### Lessons Learned
 
-- Starting with easy questions helped me learn common CTF formats and tools.
+- Starting with easy questions helped me learn more about CTF challenges and tools.
 - Free hints in the easy category were valuable for understanding problem styles.
-- Hints on medium challenges weren’t useful without stronger technical knowledge.
-- I plan to build a stronger foundation before attempting hard-level challenges in my next CTF.
-- Document as you go.  Clear notes make for easy write ups.
+- Hints on medium challenges weren’t useful without cyber security expertise.
+- Document as you go.  Clear, or any notes make for easy write ups.
 
 Moving forward, I will continue refining my skill set in cyber security and a build a stronger foundation before my next CTF.
 
