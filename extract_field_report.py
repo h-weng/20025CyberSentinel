@@ -54,7 +54,7 @@ for n in altgen(p, g):
     if res.status_code == 200:
         c = response.text
         print(f"\n=== found: {n} ===")
-        print(c)
+        #print(c) #use as necessary
         match = re.search(r'C1\{.*?\}', c)
         flag = match.group(0) if match else None
         if flag:
