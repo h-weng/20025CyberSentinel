@@ -4,7 +4,7 @@ On June 14 at 11 a.m., the 2025 [DoD Cyber Sentinel Challenge](https://www.corre
 
 #### Easy Challenges
 
-I started with the easy problems because the free hints were clear and directly relevant. To analyze network captures, I used tcpdump; for web tasks, I fetched data with curl; and for binary analysis, I extracted text with strings. Solving each easy challenge taught me new techniques, expanded my tools, and prepared me for medium and hard challenges.
+I started with the easy challenges because the free hints were clear and directly relevant. To analyze network captures, I used tcpdump; for web tasks, I fetched data with curl; and for binary analysis, I extracted text with strings. Solving each easy challenge taught me new techniques, expanded my tools, and prepared me for medium and hard challenges.
 
 #### Medium Challenges
 
