@@ -21,7 +21,7 @@ When I reached the hard challenges, I realized they were beyond my current skill
 - Hints on medium challenges weren’t useful without cyber security expertise.
 - Document as you go.  Clear, or any notes make for easy write ups.
 
-Moving forward, I will continue refining my skill set in cyber security and a build a stronger foundation before my next CTF.
+Moving forward, I will continue refining my skill set in cyber security and build a stronger foundation before my next CTF.
 
 ## Solved Problems
 Satus|Title|Category|Points|Notes|
