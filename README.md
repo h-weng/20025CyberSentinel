@@ -8,7 +8,7 @@ I started with the easy challenges because the free hints were clear and directl
 
 #### Medium Challenges
 
-After completing the easy challenges, I moved on to medium-level challenges. I used two hints (25 points each), but they assumed a deeper cybersecurity background than I had, so they weren’t helpful. Instead, I relied on critical thinking and the same tools—packet analysis, HTTP requests, and manual inspection—to solve challenges, or at least try.
+After completing the easy challenges, I moved on to medium-level challenges. I used two hints (25 points each), but they assumed a deeper cybersecurity background than I had, so these weren’t helpful. Instead, I relied on critical thinking and the same tools—packet analysis, HTTP requests, and manual inspection—to solve challenges, or at least try.
 
 #### Hard Challenges
 
