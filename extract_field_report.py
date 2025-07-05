@@ -24,7 +24,7 @@ import re
 
 def altgen(n, t):
     """
-    generator for aternating numbers: [1234, 1233, 1235, 1232, 1236 ...]
+    generator for aternating numbers: [1235, 1233, 1236, 1232, 1237 ...]
     
     """
     a=0
