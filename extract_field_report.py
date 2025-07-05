@@ -30,7 +30,7 @@ def altgen(n, t):
     a=0
     while a < t:
         if a == 0:
-            yield n
+            pass
         else:
             yield n + a
             u = n - a
