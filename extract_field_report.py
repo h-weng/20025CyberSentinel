@@ -55,10 +55,10 @@ for n in altgen(p, g):
         c=res.text
         print(f"\n=== found: {n} ===")
         #print(c) #use as necessary
-        match=re.search(r'C1\{.*?\}', c)
-        flag=match.group(0) if match else None
-        if flag:
-            print(f"\n=== flag found at {n}: {flag} ===")
+        m=re.search(r'C1\{.*?\}', c)
+        f=m.group(0) if m else None
+        if f:
+            print(f"\n=== flag found at {n}: {f} ===")
             break
         time.sleep(w)
         
